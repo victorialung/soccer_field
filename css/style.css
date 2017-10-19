@@ -7,7 +7,7 @@ body {
 }
 
 #field{
-    width: 98%;
+    width: 1550px;
     height: 600px;
     border: 6px solid white;
     margin: 15px;
@@ -34,7 +34,7 @@ top:180px;
 .circle{
     height:250px;
     width: 250px;
-    border-radius: 50%;
+    border-radius: 300px;
     position: relative;
     top: 170px;
     left: 30%;
@@ -44,28 +44,18 @@ top:180px;
     height: 30px;
     width: 30px;
     background-color: white;
-    border-radius: 50%;
+    border-radius: 300px;
     position: absolute;
     top:212px;
-    left:10%;
+    left:100px;
 }
 
 .dotTwo{
     height: 30px;
     width: 30px;
     background-color: white;
-    border-radius: 50%;
+    border-radius: 800px;
     position: absolute;
     top:120px;
-    left:50%;
-}
-
-.dotThree{
-    height: 30px;
-    width: 30px;
-    background-color: white;
-    border-radius: 50%;
-    position: absolute;
-    bottom:220px;
-    right: 12%;
+    left:300%;
 }
